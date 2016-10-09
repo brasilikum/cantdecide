@@ -22,7 +22,7 @@ Idea for an app that helps you make decisions
 
 ### UI
 
-![History](doc/img/history.jpg)
+![History](docs/img/history.JPG)
 
 
-![Format](doc/img/format.jpg)
+![Format](docs/img/format.JPG)
